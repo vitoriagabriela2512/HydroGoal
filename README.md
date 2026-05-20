@@ -1,7 +1,7 @@
 – Calculadora de Consumo Diário de Água
 📱 Descrição do Projeto
 
-O HidraFit é um aplicativo Android desenvolvido em Java no Android Studio que ajuda o usuário a calcular a quantidade ideal de água que deve consumir diariamente.
+O Hidrometa é um aplicativo Android desenvolvido em Java no Android Studio que ajuda o usuário a calcular a quantidade ideal de água que deve consumir diariamente.
 
 O cálculo é realizado com base em:
 
