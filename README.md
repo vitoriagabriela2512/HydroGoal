@@ -69,11 +69,17 @@ Android Studio
 XML (Layout)
 📂 Estrutura do Projeto
 app/
+
  ├── java/
+ 
  │   └── MainActivity.java
+ 
  └── res/
+ 
      └── layout/
+     
          └── activity_main.xml
+         
 ✅ Validações Implementadas
 Todos os campos devem ser preenchidos.
 Valores negativos não são permitidos.
